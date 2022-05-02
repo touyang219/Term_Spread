@@ -1,1 +1,3 @@
-# Term_Spread
+The Treasury yield is the return on investment, as a percentage, on the U.S. government's debt obligations. It is the effective interest rate that the U.S. government pays to borrow money. Treasury yields also influence the interest rates that individuals and businesses pay to borrow money to buy real estate, vehicles, etc, and they essentially tell us how investors feel about the economy.
+
+On March 29th, 2022, the 2-year Treasury Yield topped the 10-year Treasury Yield for the first time since 2019. Soon, a flurry of articles from multiple news outlets headline a "reccession warning." Historically, when the term spread - the difference between long-term and short-term interest rates - turns negative, a recession follows. If this is the case, as a retail investor, what does this mean for the market (S&P500)? Is there some investment strategy that can be applied when the term spread FIRST inverts?
